@@ -1,0 +1,43 @@
+.Decrement {
+  background-color: rgba(1, 206, 1, 0.795); /* zaļa poga */
+  border: 5px solid rgb(92, 155, 63); /*rāmja krāsa un to lielums*/
+  color: white; /*Burtu krāsa*/
+  margin: 0 0.5em; /*Atstarpe*/
+  padding: 1em; /* Pogu lielums*/
+  font-family: "Arial Black", Gadget, sans-serif; /*Fons*/
+  width: 130px;
+}
+.Reset {
+  background-color: rgb(83, 80, 80); /* pelēks poga*/
+  border: 5px solid rgb(163, 145, 145); /*rāmja krāsa un to lielums*/
+  color: white; /*Burtu krāsa*/
+  margin: 0 0.5em; /*Atstarpe*/
+  padding: 1em; /* Pogu lielums*/
+  font-family: "Arial Black", Gadget, sans-serif; /*Fons*/
+  width: 130px;
+}
+.Increment {
+  background-color: rgb(97, 4, 4); /* sarkana krāsa*/
+  border: 5px solid rgb(201, 83, 83); /*rāmja krāsa un to lielums*/
+  color: white; /*Burtu krāsa*/
+  margin: 0 0.5em; /*Atstarpe*/
+  padding: 1em; /* Pogu lielums*/
+  font-family: "Arial Black", Gadget, sans-serif; /*Fons*/
+  width: 130px;
+}
+.Counter {
+  /*Ramis*/
+  border: 5px solid rgb(121, 10, 115); /*rāmja krāsa un to lielums*/
+  font-weight: 700; /*Fonta biezums*/
+  margin: 1em auto; /*Atstarpe starp diviem elementiem*/
+  padding: 3em; /*Atstarpe no katra elementa*/
+  width: 430px; /*Kuba lielums*/
+  background-color: rgb(230, 219, 219);
+}
+.count,
+p {
+  /*Cipars un teksts*/
+  font-size: 4em; /*Fonta izmērs*/
+  color: rgb(68, 49, 155); /*Ciparu krāsa*/
+  text-align: center; /*Atrašanās vieta*/
+}
